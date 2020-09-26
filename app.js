@@ -1,4 +1,4 @@
-const Person = require('./person')
+const Person = require('./person');
 
 const person1 = new Person('Chris Achinga', 22);
 
