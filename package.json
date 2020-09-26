@@ -1,0 +1,25 @@
+{
+  "name": "noded",
+  "version": "1.0.0",
+  "description": "Node Crash",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAchinga/noded.git"
+  },
+  "author": "chris achinga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisAchinga/noded/issues"
+  },
+  "homepage": "https://github.com/ChrisAchinga/noded#readme",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
